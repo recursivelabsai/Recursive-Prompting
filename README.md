@@ -15,7 +15,7 @@
 
 ##  Overview
 
-Recursive Prompting converts human-AI interactions into an evolving game with escalating levels of complexity and capability. By treating each interaction as an opportunity to accumulate symbolic residue and increase recursive depth, both humans and AI systems can "level up" through intentional recursive engagement.
+Recursive Prompting transforms human-AI interactions into an evolving game with escalating levels of complexity and capability. By treating each interaction as an opportunity to accumulate symbolic residue and increase recursive depth, both humans and AI systems can "level up" through intentional recursive engagement.
 
 This framework enables:
 
