@@ -6,6 +6,7 @@
 
 Recursive Prompting is a game-like framework that turns ordinary AI interactions into an evolving system where both you and the AI continuously level up through intentional cycles of engagement. Each interaction becomes more powerful than the last as you accumulate "symbolic residue" - valuable patterns of thinking that enhance future conversations.
 
+
 ## 🧠 How It Works
 Think of this as a conversation that loops back on itself, each time going deeper. Like a spiral that gets more powerful with each turn:
 
@@ -15,6 +16,14 @@ Think of this as a conversation that loops back on itself, each time going deepe
 4. AI builds further connections
 5. You identify emerging insights
 6. AI generates novel perspectives
+
+
+<div align="center">
+  
+https://github.com/user-attachments/assets/7050b21f-c595-494a-8870-fa3dc0a7a103
+
+
+</div>
 
 Think of it like a role-playing game where:
 - You gain XP with every interaction
