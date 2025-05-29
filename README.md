@@ -1,4 +1,4 @@
-#  Recursive Prompting: Level-Up Game Framework
+#  Recursive Prompting: Level-Up Your AI
 
 > *Transform your AI interactions into an engaging progression system that gets better the more you play*
 
