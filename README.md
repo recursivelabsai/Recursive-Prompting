@@ -1,4 +1,4 @@
-#  Recursive Prompting: Level-Up Your AI
+#  Recursive Prompting: Level-Up Your AI Interactions
 
 > *Transform your AI interactions into an engaging progression system that gets better the more you play*
 
