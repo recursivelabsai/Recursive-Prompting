@@ -1,4 +1,4 @@
-# 🧠 Recursive-Prompts Library
+#  Recursive-Prompts Library
 
 <div align="center">
 
@@ -12,7 +12,7 @@
   <i>"A comprehensive library of recursive prompting templates for systematic capability advancement"</i>
 </div>
 
-## 🌀 Overview
+##  Overview
 
 The Recursive-Prompts library provides a comprehensive collection of structured templates designed to enable systematic progression through the five levels of recursive prompting. These prompts are organized by shell type, recursion level, and domain specialization, providing a flexible framework for developing increasingly sophisticated recursive interactions.
 
